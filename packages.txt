@@ -1,2 +1,2 @@
 libgl1
-libxcb-xinerama0==1.15
+libxcb-xinerama0
