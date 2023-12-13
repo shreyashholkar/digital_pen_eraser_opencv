@@ -150,7 +150,6 @@ pytextrank==3.2.4
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 pytz==2022.6
-pywin32==23.3.1
 pywinpty==2.0.9
 PyYAML==6.0
 pyzmq==24.0.1
