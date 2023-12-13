@@ -11,7 +11,7 @@ def nothing(x):
 
 def find_colour_range():
     
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(xcb)
     cap.set(3,1280)
     cap.set(4,720)
 
